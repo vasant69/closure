@@ -1,0 +1,3 @@
+AddBtnColor(){
+    console.log("AddBtnColor");
+}
